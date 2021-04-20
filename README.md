@@ -12,5 +12,7 @@ When minNeighbors was set to 5, there were many False Positives and here is an i
 But when it was changed to 10, I was able to detect all the faces correctly and here is an image of the result,
 ![neigh_full](https://user-images.githubusercontent.com/66258607/115353226-e52d7680-a1d5-11eb-931b-0b3fcf7b400e.PNG)
 
+The minNeighbors parameter eliminates the False Positives. This approach basically determines how much neighborhood is required to pass it as a face rectangle.
+
 
 
