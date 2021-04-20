@@ -9,7 +9,7 @@ This is a small project that shows how faces can be detected in an image using H
 When minNeighbors was set to 5, there were many False Positives and here is an image of it, 
 ![neigh_5](https://user-images.githubusercontent.com/66258607/115353023-ab5c7000-a1d5-11eb-8b3d-67fe28d83871.PNG)
 
-But when it was schanges to 10, I was able to detect all the faces correctly and here is an image of the result,
+But when it was changed to 10, I was able to detect all the faces correctly and here is an image of the result,
 ![neigh_full](https://user-images.githubusercontent.com/66258607/115353226-e52d7680-a1d5-11eb-931b-0b3fcf7b400e.PNG)
 
 
